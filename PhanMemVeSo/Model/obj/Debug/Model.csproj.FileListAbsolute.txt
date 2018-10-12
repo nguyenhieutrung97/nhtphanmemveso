@@ -1,0 +1,60 @@
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\bin\Debug\Model.dll.config
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\bin\Debug\Model.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\bin\Debug\Model.pdb
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\bin\Debug\EntityFramework.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\bin\Debug\EntityFramework.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\obj\Debug\Model.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\Model\obj\Debug\Model.pdb
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\Model.dll.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\Model.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\Model.pdb
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\Model\bin\Debug\Model.dll.config
+C:\Users\trung\Desktop\PhanMemVeSo\Model\bin\Debug\Model.dll
+C:\Users\trung\Desktop\PhanMemVeSo\Model\bin\Debug\Model.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\Model\bin\Debug\EntityFramework.dll
+C:\Users\trung\Desktop\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trung\Desktop\PhanMemVeSo\Model\bin\Debug\EntityFramework.xml
+C:\Users\trung\Desktop\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trung\Desktop\PhanMemVeSo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\PhanMemVeSo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\PhanMemVeSo\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\trung\Desktop\PhanMemVeSo\Model\obj\Debug\Model.dll
+C:\Users\trung\Desktop\PhanMemVeSo\Model\obj\Debug\Model.pdb
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\Model.dll.config
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\Model.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\Model.pdb
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.csproj.CopyComplete
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\Model.dll.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\Model.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\Model.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\Model\obj\Debug\Model.pdb

@@ -1,0 +1,46 @@
+﻿@model Model.EFModels.DaiLy
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<div>
+    <h4>Thông tin đại lý</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenDaiLy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenDaiLy)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.DaiLyId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+@section Plugin1{
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/normalize.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/themify-icons.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/flag-icon.min.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/cs-skin-elastic.css">
+    <!-- <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/bootstrap-select.less"> -->
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/scss/style.css">
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
+}
+
+@section Plugin2{
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/vendor/jquery-2.1.4.min.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/popper.min.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/plugins.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/main.js"></script>
+}

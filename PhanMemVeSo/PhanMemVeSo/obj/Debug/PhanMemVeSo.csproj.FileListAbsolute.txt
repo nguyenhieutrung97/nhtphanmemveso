@@ -1,0 +1,588 @@
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\ApplicationInsights.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.pdb
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.rsp
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.rsp
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.AppContext.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Console.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Compression.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Claims.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.ValueTuple.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.rsp
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\WebGrease.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.pdb
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csprojAssemblyReference.cache
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CoreCompileInputs.cache
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CopyComplete
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.pdb
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Model.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Model.pdb
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\Model.dll.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\ApplicationInsights.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.pdb
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.rsp
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.rsp
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.AppContext.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Console.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Compression.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Claims.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.ValueTuple.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.rsp
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Model.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\WebGrease.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Model.pdb
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Model.dll.config
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.xml
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.pdb
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csprojAssemblyReference.cache
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CoreCompileInputs.cache
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CopyComplete
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.dll
+C:\Users\trung\Google Drive\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\ApplicationInsights.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.rsp
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.rsp
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.AppContext.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Console.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Compression.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Claims.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.ValueTuple.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.rsp
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Model.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\WebGrease.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Model.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Model.dll.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CopyComplete
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.pdb
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\ApplicationInsights.config
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll.config
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.pdb
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe.config
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.rsp
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe.config
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.rsp
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.AppContext.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Console.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Compression.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.AccessControl.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Claims.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.ValueTuple.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe.config
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.rsp
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.ApplicationInsights.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Model.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\WebGrease.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Model.pdb
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Model.dll.config
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.xml
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.pdb
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csprojAssemblyReference.cache
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CoreCompileInputs.cache
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CopyComplete
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.dll
+E:\ASP.NET MVC PROJECT\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\ApplicationInsights.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.rsp
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.rsp
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.AppContext.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Console.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Compression.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Claims.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.ValueTuple.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.rsp
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Model.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\WebGrease.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Model.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Model.dll.config
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.xml
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.pdb
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CopyComplete
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.dll
+C:\Users\trung\Desktop\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.pdb
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\ApplicationInsights.config
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll.config
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\PhanMemVeSo.pdb
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.exe.config
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csc.rsp
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.exe.config
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\csi.rsp
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.AppContext.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Console.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Compression.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Claims.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.ValueTuple.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.exe.config
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\vbc.rsp
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Model.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\WebGrease.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Model.pdb
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Model.dll.config
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\EntityFramework.SqlServer.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.Web.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Newtonsoft.Json.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Helpers.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Mvc.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Razor.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.WebPages.Razor.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\System.Web.Optimization.xml
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\bin\Antlr3.Runtime.pdb
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CopyComplete
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.dll
+C:\Users\trung\Desktop\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.pdb

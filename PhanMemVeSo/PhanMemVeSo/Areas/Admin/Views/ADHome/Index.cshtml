@@ -1,0 +1,123 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="breadcrumbs">
+    <div class="col-sm-4">
+        <div class="page-header float-left">
+            <div class="page-title">
+                <h1>Dashboard</h1>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-8">
+        <div class="page-header float-right">
+            <div class="page-title">
+                <ol class="breadcrumb text-right">
+                    <li class="active">Dashboard</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="content mt-3">
+    <div class="col-sm-12">
+        <div class="alert  alert-success alert-dismissible fade show" role="alert">
+             Phần mềm<span class="badge badge-pill badge-success">Quản lý phát hành vé số</span>
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+    </div>
+    <a href="@Url.Action("Index","DaiLys")">
+        <div class="col-sm-12 col-lg-6">
+            <div class="card text-white bg-flat-color-1">
+                <div class="card-body pb-0">
+                    Quản Lý Đại Lý
+                </div>
+            </div>
+        </div>
+    </a>
+    <a href="@Url.Action("Index","LoaiVeSoes")">
+        <div class="col-sm-12 col-lg-6">
+            <div class="card text-white bg-flat-color-1">
+                <div class="card-body pb-0">
+                    Quản Lý Loại Vé Số
+                </div>
+            </div>
+        </div>
+    </a>
+
+    <a href="@Url.Action("Index","PhieuDangKies")">
+        <div class="col-sm-12 col-lg-6">
+            <div class="card text-white bg-flat-color-1">
+                <div class="card-body pb-0">
+                    Quản Lý Phiếu Đăng Ký
+                </div>
+            </div>
+        </div>
+    </a>
+
+    <a href="@Url.Action("Index","DotPhatHanhs")">
+        <div class="col-sm-12 col-lg-6">
+            <div class="card text-white bg-flat-color-1">
+                <div class="card-body pb-0">
+                    Quản Lý Đợt Phát Hành
+                </div>
+            </div>
+        </div>
+    </a>
+
+</div> <!-- .content -->
+
+@section Plugin1{
+    <link rel="apple-touch-icon" href="~/Assets/admin/sufee-admin-dashboard-master/apple-icon.png">
+    <link rel="shortcut icon" href="~/Assets/admin/sufee-admin-dashboard-master/favicon.ico">
+
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/normalize.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/themify-icons.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/flag-icon.min.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/cs-skin-elastic.css">
+    <!-- <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/bootstrap-select.less"> -->
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/scss/style.css">
+    <link href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/lib/vector-map/jqvmap.min.css" rel="stylesheet">
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- <script type="text/javascript" src="~/Assets/admin/sufee-admin-dashboard-master/https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv.min.js"></script> -->
+}
+
+@section Plugin2{
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/vendor/jquery-2.1.4.min.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/plugins.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/main.js"></script>
+
+
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/dashboard.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/lib/vector-map/jquery.vmap.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/lib/vector-map/jquery.vmap.min.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/lib/vector-map/jquery.vmap.sampledata.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/lib/vector-map/country/jquery.vmap.world.js"></script>
+    <script>
+        (function ($) {
+            "use strict";
+
+            jQuery('#vmap').vectorMap({
+                map: 'world_en',
+                backgroundColor: null,
+                color: '#ffffff',
+                hoverOpacity: 0.7,
+                selectedColor: '#1de9b6',
+                enableZoom: true,
+                showTooltip: true,
+                values: sample_data,
+                scaleColors: ['#1de9b6', '#03a9f5'],
+                normalizeFunction: 'polynomial'
+            });
+        })(jQuery);
+    </script>
+}

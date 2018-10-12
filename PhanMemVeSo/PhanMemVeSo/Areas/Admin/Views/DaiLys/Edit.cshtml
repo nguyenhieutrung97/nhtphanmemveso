@@ -1,0 +1,96 @@
+﻿@model Model.EFModels.DaiLy
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="breadcrumbs">
+    <div class="col-sm-4">
+        <div class="page-header float-left">
+            <div class="page-title">
+                <h1>Dashboard</h1>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-8">
+        <div class="page-header float-right">
+            <div class="page-title">
+                <ol class="breadcrumb text-right">
+                    <li class="active">Dashboard</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="content mt-3">
+    <div class="animated fadeIn">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+
+                    <div class="card-header">
+                        <strong class="card-title">Credit Card</strong>
+                    </div>
+                    <div class="card-body">
+                        <!-- Credit Card -->
+                        <div id="pay-invoice">
+                            <div class="card-body">
+                                <div class="card-title">
+                                    <h3 class="text-center">Sửa Đại Lý</h3>
+                                </div>
+                                <hr>
+                                @using (Html.BeginForm())
+                                {
+                                    @Html.AntiForgeryToken()
+
+                                    <div class="form-horizontal">
+                                        <hr />
+                                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                        @Html.HiddenFor(model => model.DaiLyId)
+                                        <div class="form-group">
+                                            @Html.LabelFor(model => model.TenDaiLy, htmlAttributes: new { @class = "control-label col-md-2" })
+                                            @Html.EditorFor(model => model.TenDaiLy, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.TenDaiLy, "", new { @class = "text-danger" })
+                                        </div>
+
+                                        <div class="form-group">
+                                            <input type="submit" value="Save" class="btn btn-default" />
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        @Html.ActionLink("Back to List", "Index")
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Plugin1{
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/normalize.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/themify-icons.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/flag-icon.min.css">
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/cs-skin-elastic.css">
+    <!-- <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/css/bootstrap-select.less"> -->
+    <link rel="stylesheet" href="~/Assets/admin/sufee-admin-dashboard-master/assets/scss/style.css">
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
+}
+
+@section Plugin2{
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/vendor/jquery-2.1.4.min.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/popper.min.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/plugins.js"></script>
+    <script src="~/Assets/admin/sufee-admin-dashboard-master/assets/js/main.js"></script>
+}
