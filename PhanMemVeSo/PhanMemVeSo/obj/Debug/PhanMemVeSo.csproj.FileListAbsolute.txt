@@ -684,5 +684,3 @@ E:\ASP.NET MVC PROJECT\Đồ án quản lý vé số\Đồ án quản lý vé s�
 E:\ASP.NET MVC PROJECT\Đồ án quản lý vé số\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CopyComplete
 E:\ASP.NET MVC PROJECT\Đồ án quản lý vé số\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.dll
 E:\ASP.NET MVC PROJECT\Đồ án quản lý vé số\Đồ án quản lý vé số\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.pdb
-E:\GITHUB\QuanLyVeSo\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csprojAssemblyReference.cache
-E:\GITHUB\QuanLyVeSo\PhanMemVeSo\PhanMemVeSo\PhanMemVeSo\obj\Debug\PhanMemVeSo.csproj.CoreCompileInputs.cache
